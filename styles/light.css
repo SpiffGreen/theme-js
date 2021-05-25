@@ -1,0 +1,12 @@
+body {
+    background: lightblue;
+    color: rgb(7, 7, 43);
+}
+
+input[type=button] {
+    background: rgb(7, 7, 43);
+    color: white;
+    padding: 5px 20px;
+    border: none;
+    outline: none;
+}

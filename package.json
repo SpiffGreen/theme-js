@@ -1,0 +1,25 @@
+{
+  "name": "theme-js",
+  "version": "1.0.0",
+  "description": "A simple JavaScript library for managing website themes based on CSS",
+  "main": "theme.js",
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpiffGreen/theme-js.git"
+  },
+  "keywords": [
+    "themes",
+    "library",
+    "javascript",
+    "css"
+  ],
+  "author": "Spiff Jekey-Green",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpiffGreen/theme-js/issues"
+  },
+  "homepage": "https://github.com/SpiffGreen/theme-js#readme"
+}
