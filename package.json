@@ -4,7 +4,8 @@
   "description": "A simple JavaScript library for managing website themes based on CSS",
   "main": "theme.js",
   "scripts": {
-    "doc": "jsdoc -c jsdoc.json"
+    "doc": "jsdoc -c jsdoc.json",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",

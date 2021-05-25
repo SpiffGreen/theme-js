@@ -1,9 +1,9 @@
 /**
  * @author  Spiff Jekey-Green<spiffjekeygreen@gmail.com>
- * @license MIT https://lk
- * @see https://theme-js.github.io
+ * @license MIT https://opensource.org/licenses/MIT
+ * @see https://theme-js.github.io, https://github.com/SpiffGreen/theme-js
  */
-export default class Theme {
+class Theme {
     /**
      * @param {{themes: string, default: string}} config 
      */
